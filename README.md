@@ -47,7 +47,6 @@ GPIOA Pin 8: Red LED.
 
 ## Hasil Percobaan
 
-
 https://github.com/user-attachments/assets/45e76a2d-6ee8-487c-b120-9e6821e5c178
 
 
